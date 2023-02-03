@@ -14,15 +14,15 @@
 
 ## Getting Started
 
--Clone the repository: git clone https://github.com/Fahdroussafi/mern-boilerplate.git
+- Clone the repository: git clone https://github.com/Fahdroussafi/mern-boilerplate.git
 
--Install the dependencies:
+- Install the dependencies:
 
 ```
  npm install
 ```
 
--Put your MONGODB_URI in the .env file in the root directory
+- Put your MONGODB_URI in the .env file in the root directory
 
 
 - Start the development server:
