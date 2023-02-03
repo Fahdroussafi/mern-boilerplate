@@ -10,7 +10,7 @@ const { notFound } = require("./middleware/route.middleware");
 const app = express();
 
 // init db with mongoose
-// startServer();
+startServer();
 
 // global middlewares
 app.use(bodyParser.json({ limit: "30mb", extended: true }));
