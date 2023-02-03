@@ -4,13 +4,13 @@
 
 ## Features 
 
--Microservices architecture
--User management service 
--Authentication service (JWT)
--Admin service (for reference)
--Example service (for reference)
--Express for server-side development
--MongoDB for database management
+- Microservices architecture
+- User management service 
+- Authentication service (JWT)
+- Admin service (for reference)
+- Example service (for reference)
+- Express for server-side development
+- MongoDB for database management
 
 ## Getting Started
 
